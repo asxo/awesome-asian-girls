@@ -61,4 +61,4 @@ Each site has its own subfolder in the "websites" folder. Fork this repository, 
 
 ### About generate.py
 
-This is a Python script that generates a README.MD automatically, based on template.md. Run it after adding a new website.
+This is a Python script that generates a README.md automatically, based on template.md. Run it after adding a new website.
