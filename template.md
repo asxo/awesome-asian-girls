@@ -2,6 +2,9 @@
 
 A curated list of websites with photosets of Asian girls.
 
+
+<code> <b>Not Safe For Work!</b> </code>
+
 ## All sites
 
 {all}
